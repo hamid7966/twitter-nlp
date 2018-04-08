@@ -1,0 +1,1 @@
+@amirr3za دیشب یه تلاش نافرجامی رو ویندوز کردم که Rust Toolset رو روی vscode راه بندازم. با لینکر gnu نشد. بعد دیدم… https://t.co/lidex4YFTD
