@@ -1,3 +1,5 @@
+#name: hamidreza khosravi
+#ID: 9511211140
 # -*- coding: utf-8 -*-import twitter_config
 
 from tweepy import OAuthHandler
